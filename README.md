@@ -1,10 +1,12 @@
 # Lagos Rent Prediction
 
-A data science and machine learning project focused on understanding and predicting residential rental prices across Lagos, Nigeria. The project combines web scraping, data cleaning, feature engineering, and predictive modeling to estimate rent based on property characteristics such as location, number of bedrooms, bathrooms, furnishing status, and property type.
+A data science and machine learning project focused on understanding and predicting residential rental prices across Lagos, Nigeria. The project combines web scraping, data cleaning, feature engineering, and predictive modelling to estimate rent based on property characteristics such as location, number of bedrooms, bathrooms, furnishing status, and property type.
 
 ## Project overview
 
 The real estate market in Lagos is highly dynamic, and rent varies widely based on location, property size, and amenities. This project aims to build a practical price prediction model using real listing data from PropertyPro.NG, helping to uncover the main drivers of rental prices and create a scalable framework for similar markets.
+
+![Lagos Rent](images/poster.png)
 
 The workflow includes:
 
@@ -16,7 +18,7 @@ The workflow includes:
 
 ## Problem statement
 
-Rental prices in Lagos can differ significantly between neighborhoods and property categories. A buyer, renter, or investor often wants a quick estimate based on the type of property and its characteristics. This project addresses that need by building a model that predicts rent from available listing attributes.
+Rental prices in Lagos can differ significantly between neighbourhoods and property categories. A buyer, renter, or investor often wants a quick estimate based on the type of property and its characteristics. This project addresses that need by building a model that predicts rent from available listing attributes.
 
 ## Dataset
 
